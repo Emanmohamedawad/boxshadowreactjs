@@ -33,3 +33,29 @@
   color:white;
   font-weight: bold;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .App {
+    height: 200vh;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .box {
+  
+    margin-left: 55px;
+    width: 60vw;
+    height: 45vh;
+  
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .controls {
+
+    margin-left: 20px;
+  
+  }
+}
